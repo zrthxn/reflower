@@ -1,6 +1,8 @@
 # Reflow
 This is a reflow oven controller based on ideas from ReflowMaster and is intended to work with a kitchen style toaster oven, but can also be adapted to a quartz heater or halogen lamp hack.
 
+![](plots/reflower.svg)
+
 ### Control Scheme
 The MCU first needs to know how fast the temperature rises at full power, as a mearsure of thermal mass. This value is stored in an internal non-volatile memory.
 
