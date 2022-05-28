@@ -1,4 +1,5 @@
 reflower-backups/
 **/*.kicad_sch-bak
 **/*.bak
+**/*.log
 fp-info-cache
