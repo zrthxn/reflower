@@ -1,5 +1,9 @@
 reflower-backups/
+~*.kicad_*
+_autosave*.kicad_*
+\#auto_saved_files#
 **/*.kicad_sch-bak
 **/*.bak
 **/*.log
 fp-info-cache
+.DS_Store
