@@ -16,3 +16,7 @@ This could easily be done even with an 8-bit AVR MCU but I chose a 32-bit one si
 
 ## Important Application Notes
 http://ww1.microchip.com/downloads/en/devicedoc/doc7745.pdf
+
+## MarcoReps's JBC Station
+Marco made a soldering station and used a zero-crossing switching scheme for temperature control. It is very much worth looking at this and improving.
+https://www.youtube.com/watch?v=cYgjcDbSyRE
